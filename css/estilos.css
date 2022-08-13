@@ -1,0 +1,117 @@
+body {
+  background: linear-gradient(#ddefdf, #17acab);
+}
+.padre{
+
+  height: 220px auto;
+  text-align: left;
+  width: 400px;
+
+}
+
+hr {
+  filter: blur(10%);
+  border-style: dotted none none;
+  border-color: #12535f;
+  border-width: 10px;
+  width: 80%;
+
+}
+
+img {
+
+margin: center;
+  height: 300px;
+
+}
+
+h1 {
+font-family: cursive;
+
+
+}
+.marcelo{
+  font-size: 20px;
+  transition-property: font-size;
+  transition-duration: 2s;
+
+}
+.marcelo:hover{
+  font-size: 36px;
+  transition-property: margin-right, color;
+  transition-property: font-size;
+  transition-duration: 1s;
+}
+
+h3 {
+font-family: cursive;
+  filter: invert(50%);
+}
+
+h2 {
+  font-family: cursive;
+  margin: 10%;
+  filter: invert;
+}
+
+h4 {
+  margin: 7%;
+  filter: invert(50%);
+  font-family: cursive;
+}
+
+p {
+  margin: 5%;
+
+  filter: invert(20%);
+}
+.parrafo{
+  font-size: 15px;
+  transition-property: font-size;
+  transition-duration: 2s;
+
+}
+.parrafo:hover{
+  font-size: 25px;
+  transition-property: margin-right, color;
+  transition-property: font-size;
+  transition-duration: 0.5s;
+}
+.pparrafo{
+  font-size: 15px;
+  transition-property: font-size;
+  transition-duration: 2s;
+
+}
+.pparrafo:hover{
+  font-size: 20px;
+  transition-property: margin-right, color;
+  transition-property: font-size;
+  transition-duration: 0.5s;
+}
+
+th {
+  filter: contrast(100%);
+}
+
+td {
+  color: #123d58;
+}
+
+li {
+  filter: contrast(80%);
+
+}
+.link{
+  font-size: 15px;
+  transition-property: font-size;
+  transition-duration: 2s;
+
+}
+.link:hover{
+background-color: bisque;
+ font-size: 20px;
+ transition-property: margin-right, background-color;
+ transition-property: font-size;
+ transition-duration: 0.5s;
+}

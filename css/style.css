@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+  top: 10px;
+  filter: drop-shadow(-21px 20px 5px rgba(0, 0, 0, 0.7));
+}
+.profile{
+  margin-top: -200px;
+}
+.mountain{
+  filter: drop-shadow(20px 20px 5px rgba(0, 0, 0, 0.7));
+}
+
+
+
+.bottom-cloud {
+  position: absolute;
+
+  filter: drop-shadow(20px 20px 5px rgba(0, 0, 0, 0.7));
+
+
+}
+
+.intro {
+  width: 35%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 40%;
+  margin: 100px auto 100px auto;
+}
+
+.skills {
+  text-align: left;
+  line-height: 2;
+}
+
+h1 {
+  margin-top: 50px;
+  font-size: 5.62rem;
+  font-family: 'sacramento', cursive;
+  margin-bottom: 5%;
+  color: #54BAB9;
+}
+
+h2 {
+  font-size: 2em;
+  color: #54BAB9;
+  ;
+}
+
+.myskill {
+  margin-top: 150px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1em;
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+.marm {
+  filter: drop-shadow(20px 20px 5px rgba(0, 0, 0, 0.7));
+}
+
+.pro {
+  color: #11999E;
+  font-size: 60px;
+  font-family: 'sacramento', serif;
+  filter: drop-shadow(20px 20px 5px rgba(0, 0, 0, 0.7));
+}
+
+.top-container {
+  background-color: #E4f9f5;
+  position: relative;
+  padding-bottom: 0px;
+  padding-top: 50px;
+}
+.sep{
+  margin-top: -100px;
+  margin-bottom: 50px;
+  width: 800px;
+}
+.sep1{
+  margin-top: -100px;
+  margin-bottom: -200px;
+  width: 800px;}
+  .sep2{
+    margin-top: -200px;
+    margin-bottom: -100px;
+    width: 800px;}
+p {
+  color: #40514E;
+  font-family: 'Roboto Slab', serif;
+}
+
+.middle-container {
+  margin-top: 60px;
+}
+
+.btn {
+  background: linear-gradient(#E4f9f5, #11999e);
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  margin: 100px;
+}
+
+.contact-me {
+  width: 40%;
+  position: relative;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #11999e;
+  padding: 35px;
+  margin-top: 50px;
+}
+
+.dimensionador {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 40px;
+}
+
+.tecno {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+.curriculum{
+  background: linear-gradient(#E4f9f5, #11999e);
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  margin: 100px;
+}
+audio{
+  margin-top: 50px;
+  width: 10%;
+  height: 20px;
+}
